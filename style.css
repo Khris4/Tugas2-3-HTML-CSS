@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+    background-image: url(bg.jfif);
+}
+
+
+h1{
+    font-family: arial, verdana, sans-serif;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: oblique;
+    color: aqua;
+    text-align: center;
+}
+
+li{
+    color: azure;
+}
+
+p{
+    color: azure;
+    text-indent: 23px;
+}
+
+strong{
+    color: beige;
+}
+
+a{
+    text-indent: 23px;
+}
